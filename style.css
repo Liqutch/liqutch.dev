@@ -1,8 +1,10 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(https://i.ibb.co/Jp7yDCV/bg.png);
-  background-size: 100% 100%;
+  background-image: url('https://i.ibb.co/Jp7yDCV/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .box{
   width: 450px;
