@@ -1,7 +1,9 @@
 body{
   margin: 0;
   padding: 0;
-  background: rgb(255, 81, 81);
+  background-color: rgb(41, 41, 41);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 .box{
