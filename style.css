@@ -1,8 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  background: "https://i.hizliresim.com/ltvln6g.png";
-  background-size: cover;
+  background: url(https://i.hizliresim.com/ltvln6g.png);
+  background-size: 100% 100%;
 }
 .box{
   width: 450px;
