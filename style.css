@@ -32,7 +32,7 @@ body{
   font-weight: 100;
 }
 .box p{
-  text-align: justify;
+  text-align: center;
 }
 .nick {
   margin-bottom: 5px;
@@ -41,6 +41,9 @@ body{
 .name {
   margin-top: 5px;
   margin-bottom: 5px;
+}
+.box p.dc {
+  margin: 0;
 }
 ul{
   margin: 0;
